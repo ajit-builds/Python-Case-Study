@@ -1,0 +1,26 @@
+[
+    {
+        "aircraft_type": "Airbus A320",
+        "rows": 10,
+        "columns": 6,
+        "aisle_indices": [3]
+    },
+    {
+        "aircraft_type": "Boeing 737",
+        "rows": 20,
+        "columns": 6,
+        "aisle_indices": [3]
+    },
+    {
+        "aircraft_type": "Embraer E175",
+        "rows": 15,
+        "columns": 4,
+        "aisle_indices": [2]
+    },
+    {
+        "aircraft_type": "Boeing 787 Dreamliner",
+        "rows": 30,
+        "columns": 9,
+        "aisle_indices": [2, 5]
+    }
+]
